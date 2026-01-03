@@ -1,5 +1,16 @@
 # 🏢 Patrimônio 360 — Gestão de Ativos Distribuídos
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+![LGPD Compliance](https://img.shields.io/badge/LGPD-Compliant-blue?style=for-the-badge&logo=shield-halved&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Automated-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=04C38E)
+![RestAssured](https://img.shields.io/badge/Rest--Assured-API_Testing-orange?style=for-the-badge)
+
 ## 📌 Visão Geral
 
 O **Patrimônio 360** é um sistema corporativo para **gestão completa do ciclo de vida de ativos de TI**, desenvolvido para empresas que operam em modelo **híbrido e remoto**, com colaboradores distribuídos em diferentes estados do Brasil.
